@@ -56,9 +56,7 @@ export default function App() {
     };
 
     const handleClearAnswers = () => {
-        // Wipe all localStorage completely,
         localStorage.clear();
-        // and then reset the current question to the first and selected-answer state to null.
         setSelectedAnswerID(null);
         setCurrentQuestion(0);
     };
