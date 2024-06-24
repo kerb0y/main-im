@@ -23,7 +23,7 @@ export default function Navbar() {
                         <a href="https://chatgpt.com/share/87582e23-1dff-4268-bcba-ed1f2e8b6280" target="_blank" className="text-right block mr-1 py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white"><FontAwesomeIcon icon={faHand} style={{color: "#0ea5e9",}} shake /> About us</a>
                         </li>
                         <li>
-                        {/* <a href="https://react.dev/" target="_blank" className="text-right block mr-1 py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">About react</a> */}
+                        <a href="https://react.dev/" target="_blank" className="text-right block mr-1 py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">Back To Course</a>
                         </li>
                         <li>
                         </li>
